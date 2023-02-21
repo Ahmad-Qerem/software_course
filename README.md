@@ -10,7 +10,7 @@ from fake database that return what the user needs.
 ## Project UML 
 ![](./Demo/img1.png)
 
-## Mocking Test
+## Tests
 ![](./Demo/img2.png)
 
 ## Sonarqube
